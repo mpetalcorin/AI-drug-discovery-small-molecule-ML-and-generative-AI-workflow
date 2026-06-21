@@ -34,8 +34,8 @@ Recommended structure:
 ```text
 AI-drug-discovery-small-molecule-ML-and-generative-AI-workflow/
 │
-├── AI4DD_Agentic_Explainable_ML_Small_Molecule_Drug_Design.ipynb
-├── AI4DD_Generative_AI_Candidate_Molecule_Design.ipynb
+├── AI for Drug Discovery_Agentic_Explainable_ML_Small_Molecule_Drug_Design.ipynb
+├── AI for Drug Discovery_Generative_AI_Candidate_Molecule_Design.ipynb
 │
 ├── figures_ai4dd/
 │   ├── 01_distribution_panel.png
@@ -49,7 +49,7 @@ AI-drug-discovery-small-molecule-ML-and-generative-AI-workflow/
 │   └── molecule_images/
 │
 ├── manuscript/
-│   └── Petalcorin_ AI4DD_Generative_Agentic_Explainable_ML_Manuscript.docx
+│   └── Petalcorin_ AI for Drug Discovery_Generative_Agentic_Explainable_ML_Manuscript.docx
 │
 ├── README.md
 └── .gitignore
@@ -61,9 +61,9 @@ AI-drug-discovery-small-molecule-ML-and-generative-AI-workflow/
 
 ### 1. Agentic and Explainable ML for Small-Molecule Drug Design
 
-**Notebook:** ` AI4DD_Agentic_Explainable_ML_Small_Molecule_Drug_Design.ipynb`
+**Notebook:** ` AI for Drug Discovery_Agentic_Explainable_ML_Small_Molecule_Drug_Design.ipynb`
 
-This notebook builds the predictive and explainable AI4DD module. It includes:
+This notebook builds the predictive and explainable AI for Drug Discovery module. It includes:
 
 - simulated small-molecule dataset generation
 - oncology-relevant targets, LDHA, ATR, RAD52, POLQ, KRAS_G12D, and PI3K_alpha
@@ -89,7 +89,7 @@ This notebook builds the predictive and explainable AI4DD module. It includes:
 
 ### 2. Generative AI Candidate Molecule Design
 
-**Notebook:** ` AI4DD_Generative_AI_Candidate_Molecule_Design.ipynb`
+**Notebook:** ` AI for Drug Discovery_Generative_AI_Candidate_Molecule_Design.ipynb`
 
 This notebook extends the first workflow from prediction to design. It includes:
 
@@ -267,8 +267,8 @@ jupyter lab
 Run the notebooks in this order:
 
 ```text
-1. AI4DD_Agentic_Explainable_ML_Small_Molecule_Drug_Design.ipynb
-2. AI4DD_Generative_AI_Candidate_Molecule_Design.ipynb
+1. AI for Drug Discovery_Agentic_Explainable_ML_Small_Molecule_Drug_Design.ipynb
+2. AI for Drug Discovery_Generative_AI_Candidate_Molecule_Design.ipynb
 ```
 
 ---
