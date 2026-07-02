@@ -420,10 +420,13 @@ Wang, R., Fang, X., Lu, Y., & Wang, S. (2005). The PDBbind database: Methodologi
 Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., Leswing, K., & Pande, V. (2018). MoleculeNet: A benchmark for molecular machine learning. *Chemical Science, 9*(2), 513-530. https://doi.org/10.1039/C7SC02664A
 
 ---
+## Citation
+
+**Petalcorin, M.I.R** (2026). Agentic, Explainable, and Generative Artificial Intelligence for Structure-Aware Small-Molecule Drug Design. ChemRxiv. https://doi.org/10.26434/chemrxiv.15005130/v1
 
 ## Author
 
-**Mark I.R. Petalcorin, PhD**  
+**Mark I.R. Petalcorin**  
 Molecular biologist, biochemist, machine learning and AI scientist  
 London, United Kingdom
 
